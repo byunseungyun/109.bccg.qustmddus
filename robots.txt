@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://bccg.qustmddus.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
